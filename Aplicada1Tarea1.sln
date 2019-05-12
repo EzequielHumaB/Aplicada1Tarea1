@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElevarNumero", "..\ElevarNu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromedioEdad", "..\PromedioEdad\PromedioEdad.csproj", "{A8BB363E-B972-4D76-9929-49BFEEE74DA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiNombreYMensajes", "MiNombreYMensajes\MiNombreYMensajes.csproj", "{BF8B1D4A-3D2B-48AB-B591-DC99E1478C40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A8BB363E-B972-4D76-9929-49BFEEE74DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8BB363E-B972-4D76-9929-49BFEEE74DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8BB363E-B972-4D76-9929-49BFEEE74DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8B1D4A-3D2B-48AB-B591-DC99E1478C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8B1D4A-3D2B-48AB-B591-DC99E1478C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8B1D4A-3D2B-48AB-B591-DC99E1478C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8B1D4A-3D2B-48AB-B591-DC99E1478C40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
